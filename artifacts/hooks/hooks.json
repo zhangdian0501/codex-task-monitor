@@ -1,0 +1,151 @@
+{
+    "description":  "Codex Task Monitor lifecycle bridge for Windows.",
+    "hooks":  {
+                  "SessionStart":  [
+                                       {
+                                           "hooks":  [
+                                                         {
+                                                             "commandWindows":  "\u0026 \"G:\\codex-task-monitor\\artifacts\\hooks\\bridge\\CodexTaskMonitor.HookBridge.exe\"",
+                                                             "command":  "\u0026 \"G:\\codex-task-monitor\\artifacts\\hooks\\bridge\\CodexTaskMonitor.HookBridge.exe\"",
+                                                             "timeout":  5,
+                                                             "type":  "command"
+                                                         }
+                                                     ]
+                                       }
+                                   ],
+                  "UserPromptSubmit":  [
+                                           {
+                                               "hooks":  [
+                                                             {
+                                                                 "commandWindows":  "\u0026 \"G:\\codex-task-monitor\\artifacts\\hooks\\bridge\\CodexTaskMonitor.HookBridge.exe\"",
+                                                                 "command":  "\u0026 \"G:\\codex-task-monitor\\artifacts\\hooks\\bridge\\CodexTaskMonitor.HookBridge.exe\"",
+                                                                 "timeout":  5,
+                                                                 "type":  "command"
+                                                             }
+                                                         ]
+                                           }
+                                       ],
+                  "PreToolUse":  [
+                                     {
+                                         "hooks":  [
+                                                       {
+                                                           "commandWindows":  "\u0026 \"G:\\codex-task-monitor\\artifacts\\hooks\\bridge\\CodexTaskMonitor.HookBridge.exe\"",
+                                                           "command":  "\u0026 \"G:\\codex-task-monitor\\artifacts\\hooks\\bridge\\CodexTaskMonitor.HookBridge.exe\"",
+                                                           "timeout":  5,
+                                                           "type":  "command"
+                                                       }
+                                                   ]
+                                     }
+                                 ],
+                  "PermissionRequest":  [
+                                            {
+                                                "hooks":  [
+                                                              {
+                                                                  "commandWindows":  "\u0026 \"G:\\codex-task-monitor\\artifacts\\hooks\\bridge\\CodexTaskMonitor.HookBridge.exe\"",
+                                                                  "command":  "\u0026 \"G:\\codex-task-monitor\\artifacts\\hooks\\bridge\\CodexTaskMonitor.HookBridge.exe\"",
+                                                                  "timeout":  600,
+                                                                  "type":  "command",
+                                                                  "statusMessage":  "等待 Codex 任务监视器审批"
+                                                              }
+                                                          ]
+                                            }
+                                        ],
+                  "PostToolUse":  [
+                                      {
+                                          "hooks":  [
+                                                        {
+                                                            "commandWindows":  "\u0026 \"G:\\codex-task-monitor\\artifacts\\hooks\\bridge\\CodexTaskMonitor.HookBridge.exe\"",
+                                                            "command":  "\u0026 \"G:\\codex-task-monitor\\artifacts\\hooks\\bridge\\CodexTaskMonitor.HookBridge.exe\"",
+                                                            "timeout":  5,
+                                                            "type":  "command"
+                                                        }
+                                                    ]
+                                      }
+                                  ],
+                  "PreCompact":  [
+                                     {
+                                         "hooks":  [
+                                                       {
+                                                           "commandWindows":  "\u0026 \"G:\\codex-task-monitor\\artifacts\\hooks\\bridge\\CodexTaskMonitor.HookBridge.exe\"",
+                                                           "command":  "\u0026 \"G:\\codex-task-monitor\\artifacts\\hooks\\bridge\\CodexTaskMonitor.HookBridge.exe\"",
+                                                           "timeout":  5,
+                                                           "type":  "command"
+                                                       }
+                                                   ]
+                                     }
+                                 ],
+                  "PostCompact":  [
+                                      {
+                                          "hooks":  [
+                                                        {
+                                                            "commandWindows":  "\u0026 \"G:\\codex-task-monitor\\artifacts\\hooks\\bridge\\CodexTaskMonitor.HookBridge.exe\"",
+                                                            "command":  "\u0026 \"G:\\codex-task-monitor\\artifacts\\hooks\\bridge\\CodexTaskMonitor.HookBridge.exe\"",
+                                                            "timeout":  5,
+                                                            "type":  "command"
+                                                        }
+                                                    ]
+                                      }
+                                  ],
+                  "SubagentStart":  [
+                                        {
+                                            "hooks":  [
+                                                          {
+                                                              "commandWindows":  "\u0026 \"G:\\codex-task-monitor\\artifacts\\hooks\\bridge\\CodexTaskMonitor.HookBridge.exe\"",
+                                                              "command":  "\u0026 \"G:\\codex-task-monitor\\artifacts\\hooks\\bridge\\CodexTaskMonitor.HookBridge.exe\"",
+                                                              "timeout":  5,
+                                                              "type":  "command"
+                                                          }
+                                                      ]
+                                        }
+                                    ],
+                  "SubagentStop":  [
+                                       {
+                                           "hooks":  [
+                                                         {
+                                                             "commandWindows":  "\u0026 \"G:\\codex-task-monitor\\artifacts\\hooks\\bridge\\CodexTaskMonitor.HookBridge.exe\"",
+                                                             "command":  "\u0026 \"G:\\codex-task-monitor\\artifacts\\hooks\\bridge\\CodexTaskMonitor.HookBridge.exe\"",
+                                                             "timeout":  5,
+                                                             "type":  "command"
+                                                         }
+                                                     ]
+                                       }
+                                   ],
+                  "Stop":  [
+                               {
+                                   "hooks":  [
+                                                 {
+                                                     "commandWindows":  "\u0026 \"G:\\codex-task-monitor\\artifacts\\hooks\\bridge\\CodexTaskMonitor.HookBridge.exe\"",
+                                                     "command":  "\u0026 \"G:\\codex-task-monitor\\artifacts\\hooks\\bridge\\CodexTaskMonitor.HookBridge.exe\"",
+                                                     "timeout":  600,
+                                                     "type":  "command",
+                                                     "statusMessage":  "等待 Codex 任务监视器输入"
+                                                 }
+                                             ]
+                               }
+                           ],
+                  "Interrupt":  [
+                                    {
+                                        "hooks":  [
+                                                      {
+                                                          "commandWindows":  "\u0026 \"G:\\codex-task-monitor\\artifacts\\hooks\\bridge\\CodexTaskMonitor.HookBridge.exe\"",
+                                                          "command":  "\u0026 \"G:\\codex-task-monitor\\artifacts\\hooks\\bridge\\CodexTaskMonitor.HookBridge.exe\"",
+                                                          "timeout":  3,
+                                                          "type":  "command"
+                                                      }
+                                                  ]
+                                    }
+                                ],
+                  "SessionEnd":  [
+                                     {
+                                         "hooks":  [
+                                                       {
+                                                           "commandWindows":  "\u0026 \"G:\\codex-task-monitor\\artifacts\\hooks\\bridge\\CodexTaskMonitor.HookBridge.exe\"",
+                                                           "command":  "\u0026 \"G:\\codex-task-monitor\\artifacts\\hooks\\bridge\\CodexTaskMonitor.HookBridge.exe\"",
+                                                           "timeout":  3,
+                                                           "type":  "command"
+                                                       }
+                                                   ]
+                                     }
+                                 ]
+              }
+}
