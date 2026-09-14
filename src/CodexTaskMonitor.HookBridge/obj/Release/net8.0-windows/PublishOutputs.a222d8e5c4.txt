@@ -1,0 +1,5 @@
+G:\codex-task-monitor\artifacts\hooks\bridge\CodexTaskMonitor.HookBridge.exe
+G:\codex-task-monitor\artifacts\hooks\bridge\CodexTaskMonitor.HookBridge.dll
+G:\codex-task-monitor\artifacts\hooks\bridge\CodexTaskMonitor.HookBridge.deps.json
+G:\codex-task-monitor\artifacts\hooks\bridge\CodexTaskMonitor.HookBridge.runtimeconfig.json
+G:\codex-task-monitor\artifacts\hooks\bridge\CodexTaskMonitor.HookBridge.pdb

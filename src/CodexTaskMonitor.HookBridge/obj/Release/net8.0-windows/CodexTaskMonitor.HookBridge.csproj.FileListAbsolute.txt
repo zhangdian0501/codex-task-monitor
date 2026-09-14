@@ -1,0 +1,14 @@
+G:\codex-task-monitor\src\CodexTaskMonitor.HookBridge\bin\Release\net8.0-windows\CodexTaskMonitor.HookBridge.exe
+G:\codex-task-monitor\src\CodexTaskMonitor.HookBridge\bin\Release\net8.0-windows\CodexTaskMonitor.HookBridge.deps.json
+G:\codex-task-monitor\src\CodexTaskMonitor.HookBridge\bin\Release\net8.0-windows\CodexTaskMonitor.HookBridge.runtimeconfig.json
+G:\codex-task-monitor\src\CodexTaskMonitor.HookBridge\bin\Release\net8.0-windows\CodexTaskMonitor.HookBridge.dll
+G:\codex-task-monitor\src\CodexTaskMonitor.HookBridge\bin\Release\net8.0-windows\CodexTaskMonitor.HookBridge.pdb
+G:\codex-task-monitor\src\CodexTaskMonitor.HookBridge\obj\Release\net8.0-windows\CodexTaskMonitor.HookBridge.GeneratedMSBuildEditorConfig.editorconfig
+G:\codex-task-monitor\src\CodexTaskMonitor.HookBridge\obj\Release\net8.0-windows\CodexTaskMonitor.HookBridge.AssemblyInfoInputs.cache
+G:\codex-task-monitor\src\CodexTaskMonitor.HookBridge\obj\Release\net8.0-windows\CodexTaskMonitor.HookBridge.AssemblyInfo.cs
+G:\codex-task-monitor\src\CodexTaskMonitor.HookBridge\obj\Release\net8.0-windows\CodexTaskMonitor.HookBridge.csproj.CoreCompileInputs.cache
+G:\codex-task-monitor\src\CodexTaskMonitor.HookBridge\obj\Release\net8.0-windows\CodexTaskMonitor.HookBridge.dll
+G:\codex-task-monitor\src\CodexTaskMonitor.HookBridge\obj\Release\net8.0-windows\refint\CodexTaskMonitor.HookBridge.dll
+G:\codex-task-monitor\src\CodexTaskMonitor.HookBridge\obj\Release\net8.0-windows\CodexTaskMonitor.HookBridge.pdb
+G:\codex-task-monitor\src\CodexTaskMonitor.HookBridge\obj\Release\net8.0-windows\CodexTaskMonitor.HookBridge.genruntimeconfig.cache
+G:\codex-task-monitor\src\CodexTaskMonitor.HookBridge\obj\Release\net8.0-windows\ref\CodexTaskMonitor.HookBridge.dll
